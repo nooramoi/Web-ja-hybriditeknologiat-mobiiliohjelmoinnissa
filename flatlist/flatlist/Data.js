@@ -13,5 +13,5 @@ export const DATA = [
     { id: '12', firstname: 'Peter', lastname: 'Parker' },
     { id: '13', firstname: 'Steven', lastname: 'Rogers' },
     { id: '14', firstname: 'Tony', lastname: 'Stark' },
-    { id: '15', firstname: 'Jean', lastname: 'Grey' }
+    { id: '15', firstname: 'Rubeus', lastname: 'Hadrig' }
   ];
